@@ -34,7 +34,7 @@ namespace Enkröptori
 
                     case "-v":
                     case "--version":
-                        Console.WriteLine("Software Version: 1.0.0");
+                        Console.WriteLine("Software Version: v1.0.0");
                         return;
 
                     case "-e":
@@ -177,7 +177,7 @@ exit
                 | |___| | | |   <| | | (_) | |_) | || (_) | |  | |  _| |_| |
                 |_____|_| |_|_|\_\_|  \___/| .__/ \__\___/|_|  |_| (_)____/ 
                 www.asciiart.eu            |_|                              
-                                           V.1.0  Mico Ritari  24.3.2025");
+                                           v1.0.0  Mico Ritari  7.4.2025");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\tEnkröptori is a file encryption program that allows you to encrypt and decrypt files.");
             Console.ForegroundColor = ConsoleColor.Blue;
